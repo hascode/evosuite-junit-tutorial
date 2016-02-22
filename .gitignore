@@ -1,0 +1,6 @@
+.project
+.settings
+.classpath
+target
+.evosuite
+.scaffolding_list.tmp
